@@ -1,1 +1,1 @@
-excel_date_to_R
+Handling date and time from Excel after exporting to R environment. 
